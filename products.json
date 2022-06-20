@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Pork Ribs",
+        "imgSrc": "./multimedia/producto/cerdo/carre-deshuesado.jpg",
+        "price": 700,
+        "category": "pork"
+    },
+    {
+        "name": "Bondiola",
+        "imgSrc": "./multimedia/producto/cerdo/bondiola_2.jpg",
+        "price": 950,
+        "category": "pork"
+    },
+    {
+        "name": "Cow Ribs",
+        "imgSrc": "./multimedia/producto/vacuno/asado-new.jpg",
+        "price": 1100,
+        "category": "cow"
+    },
+    {
+        "name": "Brochettes",
+        "imgSrc": "./multimedia/producto/aves/brochete-pollo.jpg",
+        "price": 1300,
+        "category": "chicken"
+    },
+    {
+        "name": "Empty🌌", 
+        "imgSrc": "./multimedia/producto/vacuno/vacio_2.jpg",
+        "price": 900,
+        "category": "cow"
+    },
+    {
+        "name": "Roast Beef",
+        "imgSrc": "./multimedia/producto/vacuno/roast-beef_1.jpg",
+        "price": 1150,
+        "category": "cow"
+    },
+    {
+        "name": "Chiken Brest",
+        "imgSrc": "./multimedia/producto/aves/supremas-2.jpg",
+        "price": 650,
+        "category": "chicken"
+    },
+    {
+        "name": "Square🤣",
+        "imgSrc": "./multimedia/producto/vacuno/cuadrada_1.jpg",
+        "price": 600,
+        "category": "cow"
+    }
+]
